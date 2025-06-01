@@ -1,4 +1,4 @@
-Apçicação CLI desenvolvida em Go que realiza consulta DNS para obter o endereço IP e o nome do servidor(hostname) de um site informado pelo usuário.
+Aplicação CLI desenvolvida em Go que realiza consulta DNS para obter o endereço IP e o nome do servidor(hostname) de um site informado pelo usuário.
 Funcionalidades:
   Busca IP de um domínio;
   Consulta ao nome doo servidor associado ao IP;
